@@ -1,0 +1,20 @@
+Choose an option: 2
+Enter book title to borrow: Harry Potter
+You borrowed "Harry Potter".
+
+Choose an option: 6
+Available books in library:
+- "Harry Potter" by J.K. Rowling (Borrowed)
+- "The Hobbit" by J.R.R. Tolkien (Available)
+
+Choose an option: 4
+Undo successful. "Harry Potter" is now available.
+
+Choose an option: 6
+Available books in library:
+- "Harry Potter" by J.K. Rowling (Available)
+- "The Hobbit" by J.R.R. Tolkien (Available)
+
+Choose an option: 3
+Enter book title to return: Harry Potter
+Cannot return. "Harry Potter" is not borrowed.
